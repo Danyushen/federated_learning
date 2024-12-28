@@ -1,2 +1,0 @@
-from federated_learning.models.model import MyNeuralNet
-from federated_learning.predict_model import predict

@@ -1,6 +1,7 @@
 torch == 2.2.2
-torchvision
-monai == 1.4.0
+torchvision >= 0.16.2
+monai == 1.1.0
 numpy == 1.26.4
 ipykernel
 matplotlib >= 3.9.2
+#itk

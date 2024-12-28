@@ -179,6 +179,8 @@ cython_debug/
 
 #data tar files
 *.tar
-data/
+data/raw/
+data/processed/
 
 *.pth
+*.csv
